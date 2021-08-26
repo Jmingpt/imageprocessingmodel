@@ -20,7 +20,6 @@ contextlib2
 cycler
 datasets
 decorator
-deepface
 defusedxml
 dill
 distlib
@@ -83,9 +82,7 @@ pytoml
 pytz
 pyzmq
 qtconsole
-regex
 requests
-retinaface
 retrying
 sacremoses
 sentencepiece
