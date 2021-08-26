@@ -81,7 +81,7 @@ python-dateutil
 pytoml
 pytz
 pyzmq
-qtconsole
+qtconsole==5.1.1
 requests
 retrying
 sacremoses
@@ -96,7 +96,6 @@ torchvision
 tornado
 tqdm
 traitlets
-transformers
 urllib3
 wcwidth
 webencodings
